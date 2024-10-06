@@ -1,4 +1,4 @@
-# Sales_Data_Dashboard
+# Sales and Profit Analysis Dashboard
 
 # About Dataset
 This interactive sales dashboard is designed in Excel for B2C type of Businesses like Dmart, Walmart, Amazon, Shops & Supermarkets, etc. using Slicers, Pivot Tables & Pivot Chart.
