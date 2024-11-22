@@ -11,6 +11,7 @@ Slices ==> slices are used to drill down the data, on the basis of yearly, month
 Total Sales/Total Profits ==> here is, the total sales, total profit, and profit percentage these all are combined into a monthly format and we can hide or unhide it to view it as individually or comparative.
 
 Product Visual ==> the visual indicates product-wise sales for the selected period. Only 10 products are visualized at a glance, and you can scroll up & down to view other products in the list.
+
 Daily Sales ==> It shows day-wise sales. (Area Chart)
 
 Sales Type/Payment Mode ==> It shows sales percentage contribution based on the type of selling and mode of payment.
